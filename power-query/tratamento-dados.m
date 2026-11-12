@@ -1,5 +1,5 @@
 let
-    Origem = Excel.Workbook(File.Contents("CAMINHO_DA_BASE\\Vendas_.xlsx"), null, true),
+    Origem = Excel.Workbook(File.Contents("Dados\\Vendas_.xlsx"), null, true),
     #"Navegação 1" = Origem{[Item = "Consultores", Kind = "Sheet"]}[Data],
     #"Tipo de coluna alterado" = Table.TransformColumnTypes(#"Navegação 1", {{"Column1", type text}, {"Column2", type text}, {"Column3", type text}}),
     #"Cabeçalhos promovidos" = Table.PromoteHeaders(#"Tipo de coluna alterado", [PromoteAllScalars = true]),
