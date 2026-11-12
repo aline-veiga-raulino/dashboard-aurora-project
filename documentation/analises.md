@@ -1,26 +1,26 @@
-# 📊 Análises do dashboard
+# Análise do dashboard
 
-O painel foi organizado em quatro blocos de leitura:
+O painel apresenta a receita do semestre e permite observar como o resultado se distribui ao longo do período e entre as categorias comerciais.
 
-## 💰 Resultado geral
+## Resultado geral
 
-O indicador principal apresenta aproximadamente **R$ 3,40 milhões** em vendas no semestre.
+A receita total de janeiro a junho de 2022 foi de **R$ 3.395.164,50**, exibida no painel de forma arredondada como R$ 3,40 milhões.
 
-## 👤 Desempenho por vendedor
+## Vendas por vendedor
 
-O gráfico compara os valores de vendas por vendedor. Entre os nomes e valores destacados no painel, Luís aparece na primeira posição, com aproximadamente R$ 702,91 mil.
+Luís aparece com o maior valor entre os vendedores apresentados, aproximadamente **R$ 702,91 mil**. O gráfico também permite comparar os resultados dos demais integrantes da equipe.
 
-## 🧩 Receita por produto
+## Vendas por produto
 
-A visualização compara a receita dos produtos. SAP aparece em destaque com aproximadamente R$ 748,60 mil, seguido por Microsoft e IBM.
+SAP apresenta o maior valor individual, aproximadamente **R$ 748,60 mil**. Microsoft aparece em seguida, com cerca de R$ 601,08 mil. Juntos, os dois produtos representam aproximadamente 40% da receita do semestre.
 
-## 💳 Formas de pagamento
+## Formas de pagamento
 
-O gráfico de rosca mostra predominância das vendas parceladas: aproximadamente 98% do valor, contra cerca de 2% à vista.
+As vendas parceladas correspondem a aproximadamente **98% do valor**, enquanto as vendas à vista representam cerca de 2%.
 
-## 📅 Evolução mensal
+## Evolução mensal
 
-| Mês | Vendas |
+| Mês | Receita |
 |---|---:|
 | Janeiro | R$ 295.934,50 |
 | Fevereiro | R$ 591.869,00 |
@@ -29,4 +29,4 @@ O gráfico de rosca mostra predominância das vendas parceladas: aproximadamente
 | Maio | R$ 607.410,00 |
 | Junho | R$ 608.466,00 |
 
-Janeiro é o menor resultado mensal. A receita aumenta expressivamente em fevereiro e atinge o maior valor em abril, mantendo-se em patamar próximo nos meses de maio e junho.
+Janeiro foi o mês de menor receita. O faturamento aumentou em fevereiro e atingiu o ponto mais alto em abril. Em maio houve uma redução, seguida de pequena recuperação em junho.
