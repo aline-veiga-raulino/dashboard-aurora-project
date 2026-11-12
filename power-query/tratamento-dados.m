@@ -1,5 +1,4 @@
 let
-    // Atualize o caminho abaixo para a localização local de Vendas_.xlsx antes de atualizar a consulta.
     Origem = Excel.Workbook(File.Contents("CAMINHO_DA_BASE\\Vendas_.xlsx"), null, true),
     #"Navegação 1" = Origem{[Item = "Consultores", Kind = "Sheet"]}[Data],
     #"Tipo de coluna alterado" = Table.TransformColumnTypes(#"Navegação 1", {{"Column1", type text}, {"Column2", type text}, {"Column3", type text}}),
