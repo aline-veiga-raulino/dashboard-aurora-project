@@ -1,21 +1,19 @@
-# 🎯 Contexto do desafio
+# Contexto do projeto
 
-## 🏢 Cenário
+A Aurora é uma empresa fictícia que comercializa softwares para outras empresas. A atividade propôs a criação de um dashboard de vendas a partir de uma base com informações de vendedores, produtos, formas de pagamento e valores mensais.
 
-A Aurora é uma empresa fictícia que comercializa software para outras empresas. O projeto parte de uma base de vendas e propõe a construção de um painel gerencial para acompanhar o desempenho comercial no primeiro semestre de 2022.
+## Objetivo
 
-## ❓ Problema de negócio
+Apresentar os resultados comerciais de janeiro a junho de 2022 em um painel que facilite a leitura do faturamento e a comparação entre os principais grupos de informação.
 
-Sem uma visão consolidada, acompanhar a evolução da receita e comparar o desempenho entre meses, vendedores, produtos e formas de pagamento exige consultar diferentes registros da base.
+## Escopo
 
-## 🎯 Objetivo
+A análise considera seis meses de vendas e contempla:
 
-Organizar os dados em uma estrutura adequada para análise e apresentar os resultados em um dashboard de leitura rápida, com indicadores, comparações e filtro trimestral.
+- evolução mensal da receita;
+- comparação dos valores por vendedor;
+- participação dos produtos no faturamento;
+- distribuição entre pagamentos parcelados e à vista;
+- filtro por trimestre.
 
-## 📌 Escopo
-
-- Período: janeiro a junho de 2022.
-- Dimensões apresentadas: mês, vendedor, produto e forma de pagamento.
-- Ferramentas: Excel, Power Query e Power BI.
-
-O projeto tem finalidade acadêmica e de portfólio; a empresa e o cenário são fictícios.
+O cenário e a empresa são fictícios. Os dados e resultados apresentados correspondem à base utilizada na atividade.
